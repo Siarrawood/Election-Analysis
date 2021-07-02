@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election-Analysis
 
 ## Project Overview
 A Colorodo Board of Elections employee, Tom, needs assitance with an election audit for congressional US precinct in Colorado. We are looking for the total votes cast, a list of the candidates that recieved votes, the number of votes per candidate,  the percentage of votes for each candidate, and the winner of the election based on popular vote.
